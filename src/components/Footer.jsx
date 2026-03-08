@@ -128,16 +128,16 @@ const Footer = () => {
         {/* 🚫 ESTE BLOQUE NO SE TOCA */}
         <div className="mt-10 text-center text-xs lg:text-sm text-[#D4AF37]/70">
           <p>
-            Desarrollado por
+            De Una, le meteremos!!! Sigueme 
             <a
-              href="https://portfolio-dilan.vercel.app/"
+              href="https://www.tiktok.com/@luischichisiles26?_r=1&_t=ZS-94WtnJ4lvo5"
               target="_blank"
               className="mx-1 font-semibold text-[#D4AF37] hover:opacity-90"
             >
-              Dilan Gerber
+              LA SOLUCION ES CON CHICHI
             </a>
-            © 2026. Todos los derechos reservados.
-          </p>
+            © ALCALDE 2026 - 2031. Todos los derechos reservados.
+          </p> 
         </div>
       </div>
     </footer>
